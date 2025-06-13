@@ -1,0 +1,159 @@
+Basic Array Declaration and Initialization
+
+Declare an integer array of size 5 and initialize it with values 1, 2, 3, 4, 5.
+Create a character array to store your first name and initialize it during declaration.
+Declare a float array of size 3 without initialization, then assign values 1.5, 2.7, 3.9 to it.
+Initialize an integer array with values {10, 20, 30} without specifying the size explicitly.
+Create an array of 6 integers and initialize only the first 3 elements with values 5, 15, 25.
+
+Array Input and Output
+
+Write a program to read 5 integers from the user and store them in an array.
+Create an array of 4 float numbers, take input from user, and display all elements.
+Read 10 characters from the user and store them in a character array, then print the array.
+Take input for an array of 7 integers and display them in the same order.
+Input 6 numbers into an array and print each element with its index position.
+
+Basic Array Operations
+
+Find and print the first element of an integer array.
+Find and print the last element of an array of size 8.
+Print all elements of an array of 5 integers using a for loop.
+Display all elements of an array in reverse order.
+Count the total number of elements in an array of size 12.
+
+Searching in Arrays
+
+Search for a specific number in an array of 10 integers and print "Found" or "Not Found".
+Find the position (index) of a given element in an array.
+Check if the number 25 exists in an array of 8 integers.
+Search for a character in a character array and print its position.
+Count how many times a specific number appears in an array.
+
+Finding Maximum and Minimum
+
+Find the largest number in an array of 6 integers.
+Find the smallest number in an array of 5 integers.
+Find both maximum and minimum values from an array of 10 numbers.
+Find the position of the maximum element in an array.
+Find the position of the minimum element in an array.
+
+Array Sum and Average
+
+Calculate the sum of all elements in an integer array of size 5.
+Find the average of all numbers in an array of 8 integers.
+Calculate the sum of only positive numbers in an array.
+Find the sum of elements at even positions (index 0, 2, 4, etc.) in an array.
+Calculate the sum of elements at odd positions (index 1, 3, 5, etc.) in an array.
+
+Counting Operations
+
+Count how many positive numbers are present in an array.
+Count how many negative numbers are present in an array.
+Count how many even numbers are in an array of integers.
+Count how many odd numbers are in an array of integers.
+Count how many zeros are present in an array.
+
+Simple Array Modifications
+
+Replace all negative numbers in an array with 0.
+Add 10 to each element of an integer array.
+Multiply each element of an array by 2.
+Replace the first element of an array with 100.
+Replace the last element of an array with -1.
+
+Array Comparison
+
+Check if two arrays of the same size have identical elements.
+Compare two arrays and count how many elements are the same at the same positions.
+Check if all elements in an array are the same.
+Check if an array contains only positive numbers.
+Check if an array is sorted in ascending order.
+
+Simple Pattern Problems
+
+Print all elements of an array that are greater than 50.
+Print all elements of an array that are less than a given number.
+Print all even numbers from an array.
+Print all odd numbers from an array.
+Print elements of an array along with their square values.
+
+Basic Array Copying
+
+Copy all elements from one array to another array of the same size.
+Copy only positive elements from one array to another.
+Copy elements from an array in reverse order to another array.
+Copy only even numbers from one array to another.
+Copy only the first 3 elements from an array of size 10 to another array.
+
+Simple Mathematical Operations
+
+Find the product of all elements in an array.
+Calculate the sum of squares of all elements in an array.
+Find the sum of cubes of all elements in an array.
+Calculate the average of only even numbers in an array.
+Find the sum of the first and last elements of an array.
+
+Character Array Basics
+
+Store the word "HELLO" in a character array and print it.
+Count the number of vowels in a character array.
+Count the number of consonants in a character array.
+Convert all lowercase letters in a character array to uppercase.
+Convert all uppercase letters in a character array to lowercase.
+
+Simple Sorting Concepts
+
+Check if an array is sorted in descending order.
+Find the second largest number in an array (assume all elements are different).
+Find the second smallest number in an array (assume all elements are different).
+Arrange the first 3 elements of an array in ascending order.
+Swap the first and last elements of an array.
+
+Array Validation
+
+Check if all elements in an array are within the range 1 to 100.
+Validate if an array contains any duplicate elements (simple approach).
+Check if the sum of array elements equals 100.
+Verify if an array has at least one negative number.
+Check if an array contains the numbers 1, 2, and 3.
+
+Basic Array Statistics
+
+Find the range (difference between max and min) of an array.
+Count elements greater than the average of the array.
+Find how many elements are equal to the first element.
+Count elements that are multiples of 5 in an array.
+Find the median of an array with odd number of elements (after sorting).
+
+Simple Input Validation
+
+Read numbers into an array until the user enters -1 (stop reading).
+Accept only positive numbers into an array of size 5.
+Fill an array with numbers between 1 and 10 only.
+Create an array where each element is the sum of its index + 1.
+Fill an array with the first 10 natural numbers.
+
+Pattern Recognition
+
+Check if an array follows an arithmetic progression.
+Identify if consecutive elements in an array are increasing by 1.
+Check if the array has alternating positive and negative numbers.
+Verify if all elements at even indices are even numbers.
+Check if all elements at odd indices are odd numbers.
+
+Simple Array Manipulation
+
+Insert the value 999 at the beginning of an array (shift other elements).
+Remove the first element of an array (shift remaining elements left).
+Replace all occurrences of number 5 with number 50 in an array.
+Set all elements of an array to zero.
+Fill an array with the same number entered by the user.
+
+Basic Problem Solving
+
+Find the difference between the largest and smallest elements in an array.
+Check if the sum of the first half equals the sum of the second half of an array.
+Count how many elements are greater than their next element in an array.
+Find the position of the first occurrence of the maximum element.
+Calculate what percentage of the array elements are positive numbers.	
