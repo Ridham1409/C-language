@@ -3,7 +3,7 @@
 int main()
 {
     int arr[10];
-    int i,num;
+    int i,num,found=0;
     printf("Enter 10 Arrays:\n\n");
 
     for (i = 0; i < 10; i++)
@@ -19,6 +19,7 @@ int main()
     {
         if (num == arr[i])
         {
+            found=1;
             printf("Founded %d \n", num);
         }
         else
