@@ -16,3 +16,6 @@ int main(){
     }
     return 0;
 }
+
+//cout <<"enter val:" ;
+// cin>>val;
