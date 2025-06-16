@@ -40,7 +40,9 @@ Find the position of the minimum element in an array.
 
 Array Sum and Average
 
-Find the position of the minimum element in an array.
+Calculate the sum of all elements in an integer array of size 5.
+Find the average of all numbers in an array of 8 integers.
+Calculate the sum of only positive numbers in an array.
 Find the sum of elements at even positions (index 0, 2, 4, etc.) in an array.
 Calculate the sum of elements at odd positions (index 1, 3, 5, etc.) in an array.
 
@@ -154,4 +156,4 @@ Find the difference between the largest and smallest elements in an array.
 Check if the sum of the first half equals the sum of the second half of an array.
 Count how many elements are greater than their next element in an array.
 Find the position of the first occurrence of the maximum element.
-Calculate what percentage of the array elements are positive numbers.	
+Calculate what percentage of the array elements are positive numbers.
