@@ -2,11 +2,11 @@
 #include <stdio.h>
 int
 main() {
-    int arr[6]={1,2,3,4,5,6};
+    int arr[10]={1,2,3,4,5,6,7,8,9,0};
     int i, largest, min;
     largest = arr[0];
 
-    for (i = 1; i < 6; i++)
+    for (i = 1; i < 10; i++)
     {
         if (arr[i] > largest)
         {
@@ -15,7 +15,7 @@ main() {
     }
     
     min = arr[0];
-    for (i = 1; i < 6; i++)
+    for (i = 1; i < 10; i++)
     {
         if (arr[i] < min)
         {
